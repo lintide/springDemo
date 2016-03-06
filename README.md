@@ -24,7 +24,7 @@ $ spring init -d=web,jpa --build=gradle spring-demo
 
 ```
 $ cd spring-demo
-$ spring run . —watch
+$ spring run . --watch
 ```
 
 # 验证运行结果
